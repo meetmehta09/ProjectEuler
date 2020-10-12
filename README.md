@@ -1,2 +1,2 @@
 # ProjectEuler
-Hackerrank ProjectEuler+
+HackerRank ProjectEuler+
